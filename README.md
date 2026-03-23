@@ -1,7 +1,6 @@
-## Prérequis
+# Prérequis
 
-- Avoir Git installé sur son poste.
-
+Avoir Git installé sur son poste.
 
 # Open Transport
 
