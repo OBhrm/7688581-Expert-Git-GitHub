@@ -1,3 +1,8 @@
+## Prérequis
+
+- Avoir Git installé sur son poste.
+
+
 # Open Transport
 
 Application web pour covoiturage. 
